@@ -52,8 +52,8 @@ interests:
 education:
   - area: PhD, Physics
     institution: Georgia Institute of Technology
-    date_start: 2017
-    date_end: 2023
+    date_start: 2017-06-01
+    date_end: 2023-06-01
     summary: |
       Thesis on the generalization of "shadowing" from low dimensional chaotic systems to fluid turbulence. Supervised by [Prof Roman Grigoriev](https://cns.gatech.edu/~roman/index.html). 
 
@@ -72,8 +72,8 @@ education:
       url: 'https://hdl.handle.net/1853/72764'
   - area: MS, Mathematics
     institution: Georgia Institute of Technology
-    date_start: 2017
-    date_end: 2023
+    date_start: 2017-06-01
+    date_end: 2023-06-01
     summary: |
       GPA: 3.9/4.0
 
@@ -86,8 +86,8 @@ education:
       - Numerical Methods for Dynamical Systems
   - area: BS, Physics
     institution: Emory University
-    date_start: 2013
-    date_end: 2017
+    date_start: 2013-06-01
+    date_end: 2017-06-01
     summary: |
       Undergraduate thesis on the renormalization group of various quantum random walks on a line. Supervised by [Prof Stefan Boettcher](https://faculty.college.emory.edu/sites/boettcher/). 
 
@@ -100,7 +100,7 @@ work:
     company_name: Flatiron Institute, Simons Foundation
     company_url: 'https://www.simonsfoundation.org/flatiron/'
     company_logo: 'https://sf-web-assets-prod.s3.amazonaws.com/wp-content/uploads/2023/09/18143710/Flatiron-Institute-White.svg'
-    date_start: 2023
+    date_start: 2023-08-01
     date_end: ''
 
 # Skills
@@ -166,17 +166,17 @@ awards:
     # icon: coursera
     summary: Awarded $4000 
   - title: Presidential Fellow
-    date: '2017'
+    date: '2017-06-01'
     awarder: Georgia Institute of Technology
     summary: Awarded $20000
   - title: Membership
-    date: '2016'
+    date: '2016-06-01'
     awarder: Sigma Phi Sigma Honors Society
   - title: Membership
-    date: '2013'
+    date: '2013-06-01'
     awarder: Phi Eta Sigma Honors Society
   - title: Deans List, Honors List
-    date: '2013-2017'
+    date: '2013-06-01'
     awarder: Emory University
 ---
 
