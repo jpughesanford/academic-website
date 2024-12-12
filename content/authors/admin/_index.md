@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Joshua Pughe-Sanford
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Joshua
+last_name: Pughe-Sanford
 
 # Status emoji
 status:
@@ -20,133 +20,138 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Flatiron Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Flatiron Institute, Simons Foundation
+    url: https://www.simonsfoundation.org/flatiron/
+  - name: Georgia Institute of Techonology
+    url: https://physics.gatech.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jpughesanford.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/jpewpewpew.bsky.social
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/joshua-pughe-sanford-7790b898/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=0imXirYAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-0208-2439
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Dynamical Systems Theory
+  - Coherent Structures
+  - Reduced Order Modelling
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD, Physics
+    institution: Georgia Institute of Technology
+    date_start: 2017
+    date_end: 2023
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Thesis on the generalization of "shadowing" from low dimensional chaotic systems to fluid turbulence. Supervised by [Prof Roman Grigoriev](https://cns.gatech.edu/~roman/index.html). 
+
+      GPA: 3.9/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Classical Mechanics
+      - Quantum Mechanics 
+      - Electromagnetism
+      - Math Methods
+      - Pattern Formation
+      - Continuum Mechanics
+      - Grant Writing
+    button:
+      text: 'Read Thesis'
+      url: 'https://hdl.handle.net/1853/72764'
+  - area: MS, Mathematics
+    institution: Georgia Institute of Technology
+    date_start: 2017
+    date_end: 2023
     summary: |
-      GPA: 3.4/4.0
-      
+      GPA: 3.9/4.0
+
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Real Analysis
+      - Ordinary Differential Equations
+      - Statistical Estimation
+      - Differential Geometry
+      - Introduction to Hilbert Spaces
+      - Numerical Methods for Dynamical Systems
+  - area: BS, Physics
+    institution: Emory University
+    date_start: 2013
+    date_end: 2017
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Undergraduate thesis on the renormalization group of various quantum random walks on a line. Supervised by [Prof Stefan Boettcher](https://faculty.college.emory.edu/sites/boettcher/). 
+
+      GPA: 3.9/4.0
+    button:
+      text: 'Read Thesis'
+      url: 'https://etd.library.emory.edu/concern/etds/v979v385p'
+work:
+  - position: Flatiron Research Fellow
+    company_name: Flatiron Institute, Simons Foundation
+    company_url: 'https://www.simonsfoundation.org/flatiron/'
+    company_logo: 'https://sf-web-assets-prod.s3.amazonaws.com/wp-content/uploads/2023/09/18143710/Flatiron-Institute-White.svg'
+    date_start: 2023
+    date_end: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+    # ADD DEI SKILLS
+      - name: MATLAB
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        icon: devicon/matlab
+      - name: Pytorch & JAX
         description: ''
         percent: 80
-        icon: camera
+        icon: devicon/python
+      - name: Data Analysis & Model Discovery
+        description: ''
+        percent: 100
+        icon: heroicon/funnel
+      - name: Science Communication
+        description: ''
+        percent: 100
+        icon: heroicon/users
+      - name: Science Visualization
+        description: ''
+        percent: 100
+        icon: heroicon/chart-bar
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Climbing
+  #       description: ''
+  #       # percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       # percent: 100
+  #       icon: cat
+  #     - name: Robotics
+  #       description: ''
+  #       # percent: 80
+  #       icon: camera
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Spanish
+    percent: 50
+  - name: Italian 
     percent: 25
 
 # Awards.
@@ -154,33 +159,34 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Herbert P. Haley Fellowship
+    url: https://psychology.gatech.edu/news/college-sciences-celebrates-six-new-haley-fellows
+    date: '2022-09-13'
+    awarder: Georgia Institute of Technology
+    # icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Awarded $4000 
+  - title: Presidential Fellow
+    date: '2017'
+    awarder: Georgia Institute of Technology
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded $20000
+  - title: Membership
+    date: '2016'
+    awarder: Sigma Phi Sigma Honors Society
+  - title: Membership
+    date: '2013'
+    awarder: Phi Eta Sigma Honors Society
+  - title: Deans List, Honors List
+    date: '2013-2017'
+    awarder: Emory University
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Joshua Pughe-Sanford is a Postdoctoral Fellow at the Flatiron Institute of the Simons Foundation in New York City. 
+As a researcher, their work focuses on reduced order modelling of the coherent structures within complex dynamical systems. 
+During their PhD, Josh worked on decoposing the complex behavior of fluid turbulence in terms of simpler, constituent parts known as periodic orbits.
+Their work lead to a better understanding of fluid turbulence both from a deterministic and a stochastic perspective. 
+At the Flatiron Institute, Josh now studies another complex dynamics: that of animal behavior and learning. 
+Specifically, Josh uses symbolic dynamics and control theory to study the control policy of C. Elegans performing chemotaxis within regular lattices. This works aims to make rigorous the connection between animal behavior and dynamical systems theory. 
