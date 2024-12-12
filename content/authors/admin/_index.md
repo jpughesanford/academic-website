@@ -129,22 +129,22 @@ skills:
         description: ''
         percent: 100
         icon: heroicon/chart-bar
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Climbing
-  #       description: ''
-  #       # percent: 60
-  #       icon: person-simple-walk
-  #     - name: Cats
-  #       description: ''
-  #       # percent: 100
-  #       icon: cat
-  #     - name: Robotics
-  #       description: ''
-  #       # percent: 80
-  #       icon: camera
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Climbing
+        description: ''
+        # percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        # percent: 100
+        icon: cat
+      - name: Robotics
+        description: ''
+        # percent: 80
+        icon: camera
 
 languages:
   - name: English
@@ -164,13 +164,11 @@ awards:
     date: '2022-09-13'
     awarder: Georgia Institute of Technology
     # icon: coursera
-    summary: |
-      Awarded $4000 
+    summary: Awarded $4000 
   - title: Presidential Fellow
     date: '2017'
     awarder: Georgia Institute of Technology
-    summary: |
-      Awarded $20000
+    summary: Awarded $20000
   - title: Membership
     date: '2016'
     awarder: Sigma Phi Sigma Honors Society
