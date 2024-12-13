@@ -11,7 +11,7 @@ last_name: Pughe-Sanford
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -35,6 +35,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jpughesanford.com'
     label: E-mail Me
+  - icon: brands/youtube
+    url: https://www.youtube.com/@joshuapughesanford
   - icon: brands/bluesky
     url: https://bsky.app/profile/jpewpewpew.bsky.social
   - icon: brands/linkedin
@@ -169,12 +171,12 @@ awards:
     date: '2017-06-01'
     awarder: Georgia Institute of Technology
     summary: Awarded $20000
-  - title: Membership
+  - title: Sigma Phi Sigma Honors Society
     date: '2016-06-01'
-    awarder: Sigma Phi Sigma Honors Society
-  - title: Membership
+    awarder: ''
+  - title: Phi Eta Sigma Honors Society
     date: '2013-06-01'
-    awarder: Phi Eta Sigma Honors Society
+    awarder: ''
   - title: Deans List, Honors List
     date: '2013-06-01'
     awarder: Emory University
@@ -184,7 +186,3 @@ awards:
 
 Joshua Pughe-Sanford is a Postdoctoral Fellow at the Flatiron Institute of the Simons Foundation in New York City. 
 As a researcher, their work focuses on reduced order modelling of the coherent structures within complex dynamical systems. 
-During their PhD, Josh worked on decoposing the complex behavior of fluid turbulence in terms of simpler, constituent parts known as periodic orbits.
-Their work lead to a better understanding of fluid turbulence both from a deterministic and a stochastic perspective. 
-At the Flatiron Institute, Josh now studies another complex dynamics: that of animal behavior and learning. 
-Specifically, Josh uses symbolic dynamics and control theory to study the control policy of C. Elegans performing chemotaxis within regular lattices. This works aims to make rigorous the connection between animal behavior and dynamical systems theory. 

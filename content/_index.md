@@ -35,9 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        During my PhD, I worked on decoposing the complex behavior of fluid turbulence in terms of simpler, constituent parts known as periodic orbits.
+        At the Flatiron Institute I study another complex dynamics--that of animal behavior and learning; I am currently investigating the control policy of C. Elegans performing chemotaxis within regular lattices. This works aims to make rigorous the connection between animal behavior and dynamical systems theory. 
         
         Please reach out to collaborate 😃
     design:
