@@ -184,5 +184,7 @@ awards:
 
 ## About Me
 
+WEBSITE CURRENTLY UNDER CONSTRUCTION
+
 Joshua Pughe-Sanford is a Postdoctoral Fellow at the Flatiron Institute of the Simons Foundation in New York City. 
-As a researcher, their work focuses on reduced order modelling of the coherent structures within complex dynamical systems. 
+Their work focuses on reduced order modelling of coherent structures in complex dynamical systems. 
