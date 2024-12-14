@@ -32,9 +32,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:jpughesanford.com'
-    label: E-mail Me
   - icon: brands/youtube
     url: https://www.youtube.com/@joshuapughesanford
   - icon: brands/bluesky
