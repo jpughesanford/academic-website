@@ -20,16 +20,16 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: background.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+      # background:
+      #   color: black
+      #   image:
+      #     # Add your image background to `assets/media/`.
+      #     filename: background.svg
+      #     filters:
+      #       brightness: 1.0
+      #     size: cover
+      #     position: center
+      #     parallax: false
   - block: markdown
     content:
       title: 'My Research'
@@ -37,8 +37,6 @@ sections:
       text: |-
         During my PhD, I worked on decoposing the complex behavior of fluid turbulence in terms of simpler, constituent parts known as periodic orbits.
         At the Flatiron Institute I study another complex dynamics--that of animal behavior and learning; I am currently investigating the control policy of C. Elegans performing chemotaxis within regular lattices. This works aims to firmly connect animal behavior with dynamical systems theory. 
-        
-        Please reach if you would like to collaborate!
     design:
       columns: '1'
   - block: collection
